@@ -3,7 +3,7 @@
 
 This minter is for a DAO which conveys membership and ownership interest by issuing programmable NFTs.
 
-This fullstack NFT Minter was built using a Node-ExpressJS backend and React frontend.
+This fullstack NFT Minter was built using a React frontend with Node and Express.js on the backend. Automated and programmatic image editing was done using [`jimp-compact`](https://github.com/unjs/jimp-compact) on the backend.
 
 **Polygon Mumbai:** The contracts and minter run on the Mumbai testnet
 
