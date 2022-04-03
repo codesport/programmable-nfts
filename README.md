@@ -1,7 +1,7 @@
 
-# Executive Summary: Chainblock - Eight Test NFT DAO
+# Executive Summary: Chainblock DAO (Eight Test NFT DAO)
 
-Ths DAO uses NFTs as primitives to provide cashflow entitlements, blockchain-based credentialing, proof of provenance, proof of work (completed labor), proof of attendance (of events), for individuals in real life scenarios.
+Ths DAO uses NFTs as primitives to provide cashflow entitlements, blockchain-based credentialing, proof of provenance, proof of work (completed labor), and proof of attendance (of events) for individuals in real life scenarios.
 
 The first phase of this project is this NFT minter. The minter issues programmable investor NFTs which convey membership and ownership interest in the DAO.
 
