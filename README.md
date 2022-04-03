@@ -17,8 +17,7 @@ These novel use-cases provide tangible utility and a quantifiable floor to an NF
 
 We are a DAO and Guild for blockchain builders, investors, users. 
 
-The below summarizes the first phase of our business and product development roadmap/
-
+The below summarizes the first phase of our business and product development roadmap.
  
 ## Meeting the Needs of the Stakeholder: Chain Block Labs/Builders' DAO/CoderFi:
 
@@ -106,7 +105,7 @@ https://docs.openzeppelin.com/contracts/2.x/api/payment
 https://medium.com/codex/how-to-use-openzeppelins-paymentsplitter-8ba8de09dbf
 https://medium.com/northwest-nfts/announcing-paymentsplitter-io-9b27eccfacd4
 
-### Old Brainstorm and Old Product Roadmap Notes
+### Old Brainstorm and Old Product Roadmap Notes from Frebruary 2022
 
 
 > #### Novel Use Case of Non Fungible Tokens (NFTs)
