@@ -3,10 +3,10 @@
 [Defining the Stakeholders](https://github.com/codesport/programmable-nfts#defining-the-stakeholders)
 [Giving the Stakeholder What They Want](#giving-the-stakeholder-what-they-want)
 [How Funds Are Allocated](https://github.com/codesport/programmable-nfts#how-funds-are-allocated)
-[Next Steps]
-[Mumbai Contract Addresses]
-[Business Model Reference]
-[Technical Resources]
+[How Funds Are Allocated](https://github.com/codesport/programmable-nfts/blob/master/README.md#how-funds-are-allocated)
+[Mumbai Contract Addresses](https://github.com/codesport/programmable-nfts/blob/master/README.md#mumbai-contract-addresses)
+[Links, References, and Personal Notes]
+[Next Steps](https://github.com/codesport/programmable-nfts/blob/master/README.md#next-steps)
 
 # CoderFi Executive Summary: A Novel Use Case of Non Fungible Tokens (NFTs)  
 
@@ -56,14 +56,12 @@ Developers get salaries and milestone bonuses based on building applications tha
 
 **Treasury funds:** The rainy-day fund will be used to fund core-team developers’ salaries  when business is slow. Funds may also be invested in conservative fixed income strategies from Element Finance or Ethereum  token staking
 
-## Next Steps
-Test Governance token functionality with Tally. Deploy minter to a live website via vercel or heroku.
 
-Assemble a core-team of at least 3 blockchain developers.
+## Links, References, and Personal Notes
 
-In the near future, money splitting will be added to this NFT so as to payout dividends or any excess earnings to owners.  
+[WithTally Governance Dashboard](https://www.tally.xyz/governance/eip155:80001:0x336827b17909B59439C4291B05929b42f271635B) 
 
-## Mumbai Contract Addresses
+## Mumbai Testnet Contract Addresses
 
 **Minter:**
 ```
@@ -100,10 +98,7 @@ Contract deployed TO: 0xdd4447373BB1B868004348fF15FbbEBdE90b5461
 4. [**AtoZ:**  Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers)
 5. [**Tweet Storm:**  Why Do DAOs Struggle to Onboard Contributors](https://twitter.com/jkey_eth/status/1494390904005660675)
 
-### Technical Resources on Payment Splitters:
-
 ### Old Brainstorm and Old Product Roadmap Notes from Frebruary 2022:
-
 
 > #### Novel Use Case of Non Fungible Tokens (NFTs)
 >
@@ -124,3 +119,17 @@ Contract deployed TO: 0xdd4447373BB1B868004348fF15FbbEBdE90b5461
 >These NFTs may not be resold and are permanently tied to a members ETH Address.
 
 Here are the rest of my personal from February 2022: [Please Don't Read This. You will Barf](deprecated-road-map.md)
+
+### Technical Resources on Payment Splitters:
+
+https://docs.openzeppelin.com/contracts/2.x/api/payment
+https://medium.com/codex/how-to-use-openzeppelins-paymentsplitter-8ba8de09dbf
+https://medium.com/northwest-nfts/announcing-paymentsplitter-io-9b27eccfacd4
+
+
+## Next Steps
+Test Governance token functionality with Tally. Deploy minter to a live website via vercel or heroku.
+
+Assemble a core-team of at least 3 blockchain developers.
+
+In the near future, money splitting will be added to this NFT so as to payout dividends or any excess earnings to owners.  
