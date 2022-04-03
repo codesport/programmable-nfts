@@ -3,6 +3,8 @@
 
 This DAO uses NFTs as primitives to provide cashflow entitlements, blockchain-based credentialing, proof of provenance, proof of work (completed labor), and proof of attendance (of events) for individuals in real life scenarios.
 
+The contract's address on Polygon's Mumbai testnet is: [0x001fd467d74cc8c3c2e4884a1810d06f082aefe3](https://mumbai.polygonscan.com/address/0x001fd467d74cc8c3c2e4884a1810d06f082aefe3)
+
 The first phase of this project is this NFT minter. The minter issues programmable investor NFTs which convey membership and ownership interest in the DAO.
 
 This minter was built using a React frontend with Node and Express.js on the backend. Automated and programmatic image editing was done using [`jimp-compact`](https://github.com/unjs/jimp-compact) on the backend.
