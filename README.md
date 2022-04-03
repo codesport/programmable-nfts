@@ -1,21 +1,23 @@
 
-# Technical Summary
+# Technical Summary: Programmable NFT Minter on Mumbai Testnet
 
-This is fulltstack NFT Minter with a Node-ExpressJS backend and React frontend.
+This is a fulltstack NFT Minter with a Node-ExpressJS backend and React frontend.
 
 **Polygon Mumbai:** The contracts and minter run on the Mumbai testnet
+
 **IPFS:** This is an NFT minter that programtically pins user-minted NFTs as well as their JSON to IPFS.  Browser friendly URLs are provided by pinata.
 
 
 # Navigation
 
+* [Executive Summary](#executive-summary-a-novel-use-case-of-non-fungible-tokens-nfts)
 * [Meeting the Needs of Our Stakeholders](#meeting-the-needs-of-our-stakeholders)
-* [Defining the Stakeholders](https://github.com/codesport/programmable-nfts#defining-the-stakeholders)
+* [Defining the Stakeholders](#defining-the-stakeholders)
 * [Giving the Stakeholder What They Want](#giving-the-stakeholder-what-they-want)
-* [How Funds Are Allocated](https://github.com/codesport/programmable-nfts#how-funds-are-allocated)
-* [How Funds Are Allocated](https://github.com/codesport/programmable-nfts/blob/master/README.md#how-funds-are-allocated)
-* [Links, References, and Personal Notes](https://github.com/codesport/programmable-nfts/blob/master/EADME.md#links-references-and-personal-notes)
-* [Next Steps](https://github.com/codesport/programmable-nfts/blob/master/README.md#next-steps)
+* [How Funds Are Allocated](#how-funds-are-allocated)
+* [How Funds Are Allocated](/blob/master/README.md#how-funds-are-allocated)
+* [Links, References, and Personal Notes](#links-references-and-personal-notes)
+* [Next Steps](#next-steps)
 
 
 # Executive Summary: A Novel Use Case of Non Fungible Tokens (NFTs)  
