@@ -1,7 +1,9 @@
 
 # Technical Summary: Programmable NFT Minter on Mumbai Testnet (Chainblock DAO)
 
-This is a fulltstack NFT Minter with a Node-ExpressJS backend and React frontend.
+This minter for a DAO which conveys membership and ownership interest by issuing programmable NFTs.
+
+This is a fullstack NFT Minter was built using a Node-ExpressJS backend and React frontend.
 
 **Polygon Mumbai:** The contracts and minter run on the Mumbai testnet
 
