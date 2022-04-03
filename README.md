@@ -1,11 +1,11 @@
 
-# Summary: Chainblock - Eight Test NFT DAO
+# Executive Summary: Chainblock - Eight Test NFT DAO
 
-This minter is for a DAO which conveys membership and ownership interest by issuing programmable NFTs.
+Ths DAO uses NFTs as primitives to provide cashflow entitlements, blockchain-based credentialing, proof of provenance, proof of work (completed labor), proof of attendance (of events), for individuals in real life scenarios.
 
-This fullstack NFT Minter was built using a React frontend with Node and Express.js on the backend. Automated and programmatic image editing was done using [`jimp-compact`](https://github.com/unjs/jimp-compact) on the backend.
+The first phase of this project is this NFT minter. The minter issues programmable investor NFTs which convey membership and ownership interest in the DAO.
 
-NFTs as primitives to provide cashflow entitlements, blockchain-based credentialing, proof of provenance, proof of work (completed labor), proof of attendance (of events), for individuals in real life scenarios.
+This minter was built using a React frontend with Node and Express.js on the backend. Automated and programmatic image editing was done using [`jimp-compact`](https://github.com/unjs/jimp-compact) on the backend.
 
 
 
@@ -21,7 +21,7 @@ NFTs as primitives to provide cashflow entitlements, blockchain-based credential
 * [Next Steps](#next-steps)
 
 
-# Executive Summary: A Novel Use Case of Non Fungible Tokens (NFTs)  
+# Introduction: A Novel Use Case of Non Fungible Tokens (NFTs)  
 
 We are a DAO, investment vehicle, and guild for blockchain end users, investors, and builders.  
 
