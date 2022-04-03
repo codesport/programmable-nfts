@@ -5,9 +5,8 @@ This minter is for a DAO which conveys membership and ownership interest by issu
 
 This fullstack NFT Minter was built using a React frontend with Node and Express.js on the backend. Automated and programmatic image editing was done using [`jimp-compact`](https://github.com/unjs/jimp-compact) on the backend.
 
-**Polygon Mumbai:** The contracts and minter run on the Mumbai testnet
+NFTs as primitives to provide cashflow entitlements, blockchain-based credentialing, proof of provenance, proof of work (completed labor), proof of attendance (of events), for individuals in real life scenarios.
 
-**IPFS:** User-minted NFTs as well as their JSON metadata are pinned to IPFS.  Browser friendly URLs are provided by [Pinata](https://gateway.pinata.cloud/ipfs/QmNQhgwK9CncchySHzypPUhFwPFuQPxAkhH3Z8D9ynpBUe).
 
 
 # Navigation
@@ -76,6 +75,11 @@ Developers get salaries and milestone bonuses based on building applications tha
 ## Links, References, and Personal Notes
 
 [WithTally Governance Dashboard](https://www.tally.xyz/governance/eip155:80001:0x336827b17909B59439C4291B05929b42f271635B) 
+
+**Polygon Mumbai:** The contracts and minter run on the Mumbai testnet
+
+**IPFS:** User-minted NFTs as well as their JSON metadata are pinned to IPFS.  Browser friendly URLs are provided by [Pinata](https://gateway.pinata.cloud/ipfs/QmNQhgwK9CncchySHzypPUhFwPFuQPxAkhH3Z8D9ynpBUe).
+
 
 ### Mumbai Testnet Contract Addresses
 
