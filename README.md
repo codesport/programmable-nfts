@@ -4,8 +4,7 @@
 [Giving the Stakeholder What They Want](#giving-the-stakeholder-what-they-want)
 [How Funds Are Allocated](https://github.com/codesport/programmable-nfts#how-funds-are-allocated)
 [How Funds Are Allocated](https://github.com/codesport/programmable-nfts/blob/master/README.md#how-funds-are-allocated)
-[Mumbai Contract Addresses](https://github.com/codesport/programmable-nfts/blob/master/README.md#mumbai-contract-addresses)
-[Links, References, and Personal Notes]
+[Links, References, and Personal Notes](https://github.com/codesport/programmable-nfts/blob/master/README.md#links-references-and-personal-notes)
 [Next Steps](https://github.com/codesport/programmable-nfts/blob/master/README.md#next-steps)
 
 # CoderFi Executive Summary: A Novel Use Case of Non Fungible Tokens (NFTs)  
@@ -122,9 +121,9 @@ Here are the rest of my personal from February 2022: [Please Don't Read This. Yo
 
 ### Technical Resources on Payment Splitters:
 
-https://docs.openzeppelin.com/contracts/2.x/api/payment
-https://medium.com/codex/how-to-use-openzeppelins-paymentsplitter-8ba8de09dbf
-https://medium.com/northwest-nfts/announcing-paymentsplitter-io-9b27eccfacd4
+* https://docs.openzeppelin.com/contracts/2.x/api/payment
+* https://medium.com/codex/how-to-use-openzeppelins-paymentsplitter-8ba8de09dbf
+* https://medium.com/northwest-nfts/announcing-paymentsplitter-io-9b27eccfacd4
 
 
 ## Next Steps
