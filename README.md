@@ -60,7 +60,7 @@ Developers get salaries and milestone bonuses based on building applications tha
 
 [WithTally Governance Dashboard](https://www.tally.xyz/governance/eip155:80001:0x336827b17909B59439C4291B05929b42f271635B) 
 
-## Mumbai Testnet Contract Addresses
+### Mumbai Testnet Contract Addresses
 
 **Minter:**
 ```
