@@ -11,7 +11,7 @@ This minter was built using a React frontend with Node and Express.js on the bac
 
 # Navigation
 
-* [Executive Summary](#executive-summary-a-novel-use-case-of-non-fungible-tokens-nfts)
+* [Introduction: A Novel Use Case of Non Fungible Tokens (NFTs)](#introduction-a-novel-use-case-of-non-fungible-tokens-nfts)
 * [Meeting the Needs of Our Stakeholders](#meeting-the-needs-of-our-stakeholders)
 * [Defining the Stakeholders](#defining-the-stakeholders)
 * [Giving the Stakeholder What They Want](#giving-the-stakeholder-what-they-want)
