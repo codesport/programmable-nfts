@@ -1,5 +1,5 @@
 
-# Technical Summary: Programmable NFT Minter on Mumbai Testnet
+# Technical Summary: Programmable NFT Minter on Mumbai Testnet (Chainblock DAO)
 
 This is a fulltstack NFT Minter with a Node-ExpressJS backend and React frontend.
 
