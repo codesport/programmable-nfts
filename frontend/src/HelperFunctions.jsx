@@ -1,4 +1,4 @@
-const handleMintNFT = async (axios, event, contract, contractAddress, fileStream) => {
+const handleMintNFT = async (axios, event, contract, contractAddress, fileStream, ethers, currentAccount) => {
 
     console.log( fileStream )
 
@@ -50,8 +50,10 @@ const handleMintNFT = async (axios, event, contract, contractAddress, fileStream
 
     try{
 
+        console.log("Now minting to" + currentAccount);
+
         let transaction
-        transaction = await contract.receivePayThenMint( currentAddress, tokenURI, overrides );
+        transaction = await contract.receivePayThenMint( currentAccount, tokenURI, overrides );
         
         console.log("Mining..." + transaction.hash);
         await transaction.wait();
@@ -71,8 +73,7 @@ const handleMintNFT = async (axios, event, contract, contractAddress, fileStream
     }catch(error){
 
         console.log(error)
-        setStatus("")
-        setError(error.message)      
+        return{success: false, status: error}      
 
     }   
 

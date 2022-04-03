@@ -196,7 +196,7 @@ window.ethereum.on('chainChanged', (chainId) => {
         const callback = showNetwork( network );
         callback.success ? setNetworkName(callback.status) : setError(callback.error)
 
-        console.log(`${callingFunctionName} Formatted Network Name: ${callback.status}`)
+        //console.log(`${callingFunctionName} Formatted Network Name: ${callback.status}`)
     }
 
     const onSetTotalSupply_pressed = async (event) => {
@@ -215,12 +215,12 @@ window.ethereum.on('chainChanged', (chainId) => {
         event.preventDefault()   
 
         console.log(image);
-        const callback = await handleMintNFT(axios, event, contract, contractAddress, image);
+        const callback = await handleMintNFT(axios, event, contract, contractAddress, image, ethers, currentAccount);
         callback.success ? setStatus(callback.status) : setError(callback.error)
     }
 
     const getContractProperties = async ( get /* readonly contract function */, command /* name of state to update */ ,
-     message /* Ssatus Message */, format=false /* eth || base64 */ ) => {
+     message /* Status Message */, format=false /* eth || base64 */ ) => {
         let output = ( await get)
         
         if (format === 'eth') {
