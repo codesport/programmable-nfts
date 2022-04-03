@@ -1,13 +1,14 @@
 
-[Defining the Stakeholders]
-[Give the Stakeholder What They Want]
-[How Funds Are Allocated]
+[Meeting the Needs of Our Stakeholders](#meeting-the-needs-of-our-stakeholders)
+[Defining the Stakeholders](https://github.com/codesport/programmable-nfts#defining-the-stakeholders)
+[Giving the Stakeholder What They Want](#giving-the-stakeholder-what-they-want)
+[How Funds Are Allocated](https://github.com/codesport/programmable-nfts#how-funds-are-allocated)
 [Next Steps]
 [Mumbai Contract Addresses]
 [Business Model Reference]
 [Technical Resources]
 
-# Executive Summary: A Novel Use Case of Non Fungible Tokens (NFTs)  
+# CoderFi Executive Summary: A Novel Use Case of Non Fungible Tokens (NFTs)  
 
 We offer several novel use cases for NFTs through a mechanism called "Programmable NFTs".
 
@@ -19,7 +20,7 @@ We are a DAO and Guild for blockchain builders, investors, users.
 
 The below summarizes the first phase of our business and product development roadmap.
  
-## Meeting the Needs of the Stakeholder: Chain Block Labs/Builders' DAO/CoderFi:
+## Meeting the Needs of Our Stakeholders
 
 We meet the needs of every member of the blockchain ecosystem. This includes end users, investors, and blockchain developers.  
 
@@ -93,19 +94,15 @@ Contract deployed TO: 0xdd4447373BB1B868004348fF15FbbEBdE90b5461
 
 ### Business Model References:
 
-1. [Andreesen Howoritz: Building and Running a DAO: Why Governance Matters](https://future.a16z.com/building-and-running-a-dao-why-governance-matters/)
-2. [AtoZ: A Guide to DeSci, the Latest Web3 Movement](https://future.a16z.com/what-is-decentralized-science-aka-desci)
-3. [AtoZ: The Missing Link Between Web2 and Web3: Custody](https://future.a16z.com/missing-link-web2-web3-custody-wallets/)
-4. [AtoZ: Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers)
-5. [Tweet Storm: Why Do DAOs Struggle to Onboard Contributors](https://twitter.com/jkey_eth/status/1494390904005660675)
+1. [**Andreesen Howoritz:** Building and Running a DAO: Why Governance Matters](https://future.a16z.com/building-and-running-a-dao-why-governance-matters/)
+2. [**AtoZ:** A Guide to DeSci, the Latest Web3 Movement](https://future.a16z.com/what-is-decentralized-science-aka-desci)
+3. [**AtoZ:**  The Missing Link Between Web2 and Web3: Custody](https://future.a16z.com/missing-link-web2-web3-custody-wallets/)
+4. [**AtoZ:**  Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers)
+5. [**Tweet Storm:**  Why Do DAOs Struggle to Onboard Contributors](https://twitter.com/jkey_eth/status/1494390904005660675)
 
-### Technical Resources:
+### Technical Resources on Payment Splitters:
 
-https://docs.openzeppelin.com/contracts/2.x/api/payment
-https://medium.com/codex/how-to-use-openzeppelins-paymentsplitter-8ba8de09dbf
-https://medium.com/northwest-nfts/announcing-paymentsplitter-io-9b27eccfacd4
-
-### Old Brainstorm and Old Product Roadmap Notes from Frebruary 2022
+### Old Brainstorm and Old Product Roadmap Notes from Frebruary 2022:
 
 
 > #### Novel Use Case of Non Fungible Tokens (NFTs)
