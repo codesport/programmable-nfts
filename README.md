@@ -9,13 +9,15 @@
 
 # Executive Summary: A Novel Use Case of Non Fungible Tokens (NFTs)  
 
+We offer several novel use cases for NFTs through a mechanism called "Programmable NFTs".
+
 We bind NFTs to permanent capital reserves, organizational governance, claims to arbitrary future cashflows, and verifiable chains of provenance. 
 
 These novel use-cases provide tangible utility and a quantifiable floor to an NFT's intrinsic monetary value.
 
-We are a DAO and Guild for blockchain builders, innovators, users. 
+We are a DAO and Guild for blockchain builders, investors, users. 
 
-Our secondary goal is to become a grass roots incubator for dApps and blockchain-based services.
+The below summarizes the first phase of our business and product development roadmap/
 
  
 ## Meeting the Needs of the Stakeholder: Chain Block Labs/Builders' DAO/CoderFi:
@@ -105,5 +107,24 @@ https://medium.com/codex/how-to-use-openzeppelins-paymentsplitter-8ba8de09dbf
 https://medium.com/northwest-nfts/announcing-paymentsplitter-io-9b27eccfacd4
 
 ### Old Brainstorm and Old Product Roadmap Notes
-[Please Don't Read This. You will Barf]()
 
+
+> #### Novel Use Case of Non Fungible Tokens (NFTs)
+>
+> Builders' DAO offers several novel use cases for NFTs through a mechanism called "Programmable NFTs"
+> 
+> 1. We allow NFTs to represent and entitle holders to either (a) perpetual, (b) limited with expiry, (c) continuous, or (d) discrete claims on future cashflows based on
+>
+>   * Amount of ETH staked by a member (Founder NFTs)
+>   * Satisfactory completion of time based labour services performed by a member (Builder NFTs)
+>
+> 2. Additionally, we exploit NFTs as primitives to provide blockchain-based credentialing, proof of provenance, proof of work (completed labor), proof of  attendance (of events), for individuals in real life scenarios.  
+>
+>   * Proof of Work/Contribution: Verifies satisfactory completion of time-based labour services performed by a member
+>   * Proof of Ownership: Attestation of ownership and therfore a claim on cashflows from a revenue generating product or business
+>   * Proof of Attendance/Completion: Confirms attendance and/or completion of classes/courses/homework from an educational institutions
+>   * Proof of Provenance/Origin: Attests that NFT was issued by a smart contract owned and deployed by a specific entity (e.g., a school/educational institution, individual, or any organizational entity)
+>
+>These NFTs may not be resold and are permanently tied to a members ETH Address.
+
+Here are the rest of my personal from February 2022: [Please Don't Read This. You will Barf](deprecated-road-map.md)
