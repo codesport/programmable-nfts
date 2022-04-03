@@ -24,13 +24,14 @@ This fullstack NFT Minter was built using a Node-ExpressJS backend and React fro
 
 # Executive Summary: A Novel Use Case of Non Fungible Tokens (NFTs)  
 
-We offer several novel use cases for NFTs through a mechanism called "Programmable NFTs".
+We are a DAO, investment vehicle, and guild for blockchain end users, investors, and builders.  
 
-We bind NFTs to permanent capital reserves, organizational governance, claims to arbitrary future cashflows, and verifiable chains of provenance. 
+We offer several novel use cases for NFTs through a mechanism called "Programmable NFTs". 
+
+We bind NFTs to permanent capital reserves, organizational governance, claims to future cashflows, proof of work, and verifiable chains of provenance. 
 
 These novel use-cases provide tangible utility and a quantifiable floor to an NFT's intrinsic monetary value.
 
-We are a DAO and Guild for blockchain builders, investors, users. 
 
 The below summarizes the first phase of our business and product development roadmap.
  
@@ -43,7 +44,7 @@ The goals of the DAO is to meet the needs of key stakeholders within the blockch
 
 2. **Investors:** want to fund great teams that work well together.  Teams of skilled and productive developers.
 
-3. **Developers:** want to work on challenging projects they are passionate about. They also to be fairly compensated for their work and have upside in a project's success 
+3. **Developers:** want to work on challenging projects they are passionate about. They also would like  to be fairly compensated for their work and have upside in a project's success 
 
 This phase deliverable is a proof of concept for the Investor NFT.  It can be minted on-demand by anyone wants to invest in a group of blockchain devs working together as a team.  
 
