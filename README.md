@@ -77,9 +77,11 @@ Developers get salaries and milestone bonuses based on building applications tha
 
 [WithTally Governance Dashboard](https://www.tally.xyz/governance/eip155:80001:0x336827b17909B59439C4291B05929b42f271635B) 
 
-**Polygon Mumbai:** The contracts and minter run on the Mumbai testnet
 
-**IPFS:** User-minted NFTs as well as their JSON metadata are pinned to IPFS.  Browser friendly URLs are provided by [Pinata](https://gateway.pinata.cloud/ipfs/QmNQhgwK9CncchySHzypPUhFwPFuQPxAkhH3Z8D9ynpBUe).
+
+**Polygon Mumbai:** The minting contract's address on Polygon's Mumbai testnet is: [0x001fd467d74cc8c3c2e4884a1810d06f082aefe3](https://mumbai.polygonscan.com/address/0x001fd467d74cc8c3c2e4884a1810d06f082aefe3)
+
+**IPFS:** A user-minted NFT and the associated JSON metadata are pinned to IPFS.  Here's a browser friendly URLs are provided by [Pinata](https://gateway.pinata.cloud/ipfs/QmNQhgwK9CncchySHzypPUhFwPFuQPxAkhH3Z8D9ynpBUe).
 
 
 ### Mumbai Testnet Contract Addresses
