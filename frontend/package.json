@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "epic-nft",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jimp-compact": "^0.16.1-2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "jimp": "^0.16.1",
+    "vite": "^2.8.0"
+  }
+}

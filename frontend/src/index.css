@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Rubik';
+  color: #254cdd;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* .mainContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 64px;
+} */
+
+
+
+.Minter {
+  max-width: 80vh;
+  max-height: 80vh;
+  padding: 60px 100px;
+  margin: 0 auto;
+  text-align: left;
+
+}
+/* https://stackoverflow.com/a/11603895/946957 https://stackoverflow.com/questions/10589304/how-to-add-css-for-specific-input-type-text*/
+input.main{ 
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  font-size: 16px;
+  width: 100%;
+  border-color: rgba(4, 4, 5, 0.1);
+  line-height: 32px;
+}
+
+input.main:focus {
+  outline: none;
+  border-color: rgba(4, 4, 5, 0.4);
+}
+
+.alchemyButton {
+  padding: 9px 16px;
+  max-height: 40px;
+  border-color: #254cdd;
+  color: #254cdd;
+  background-color: white;
+  border-radius: 8px;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  font-weight: bold;
+  cursor:pointer;
+}
+
+#title {
+  padding-top: 32px;
+}
+
+.uploadFile {
+  border: 4px dashed rgba(4, 4, 5, 0.1);
+  border-radius: 16px;
+  text-align: center;
+  padding: 32px 60px;
+}
+
+#walletButton {
+  text-align: right;
+  float:right;
+  margin-bottom: 50px;
+  line-height: 16px;
+}
+
+
+
+/* Custom Styles */
+
+#status {
+  color:rgb(35, 162, 10);
+  font-weight: 700;
+  font-size: 1.5em;
+  margin-top: 1em;
+  /* background-color: OldLace; 
+  margin-top: 16px;
+  padding: 8px */
+}
+
+.error {
+  color:rgb(211 87 75);
+  font-weight: 700;
+  font-size: 1.5em;
+  margin-top: 1em;
+  /* background-color: OldLace; 
+  margin-top: 16px;
+  padding: 8px */
+}
+
+.adminButton{
+  border: 2px solid rgb(197 37 37 / 75%) !important;
+  color: rgb(210 55 55)!important;
+}
+.adminButton:focus, .adminButton.focus {
+box-shadow: rgb(169 46 46 / 88%) 0px 0px 0px 4px, rgba(89, 29, 1, 0.32) 0px 12px 32px -12px !important;
+}
+
+.adminButton:hover, .adminButton.hover {
+  border-color: rgb(159 11 11)!important;
+  background-color: rgb(253 245 245)!important;
+  color: rgb(155 15 15)!important;;
+}
+
+.adminButtonGreen:hover, .adminButtonGreen.hover {
+  border-color: rgb(21 92 6)!important;
+  background-color: rgb(224 243 220)!important;
+  color: rgb(21 92 6)!important;
+}
+
+.adminButtonGreen:focus, .adminButtonGreen.focus {
+  box-shadow: rgb(21 92 6) 0px 0px 0px 4px, rgb(35 162 10) 0px 12px 32px -12px !important;
+}
+.adminButtonGreen {
+  border: 2px solid rgb(63 145 58) !important;
+  color: rgb(35 162 10)!important;
+}
+
+.center {
+  display:flex;
+  justify-content: center;
+}
+
+.kviMVi:active, .kviMVi.active {
+  border-color: rgb(12, 22, 44);
+  background-color: rgb(245, 247, 253);
+  color: rgb(12, 22, 44);
+}
+
+.kviMVi:focus, .kviMVi.focus {
+  outline: 0px;
+  color: rgb(26, 43, 107);
+  border-color: rgb(26, 43, 107);
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgb(55 91 210 / 88%) 0px 0px 0px 4px, rgb(12 22 44 / 32%) 0px 12px 32px -12px;
+}
+
+.kviMVi:hover, .kviMVi.hover {
+    border-color: rgb(26, 43, 107);
+    background-color: rgb(245, 247, 253);
+    color: rgb(26, 43, 107);
+}
+@media screen and (min-width: 768px){
+    .kviMVi {
+      width: unset;
+  }
+}
+button, a, summary {
+  outline-offset: 2px;
+}
+
+
+.connectButton {
+  display: flex;
+  justify-content: flex-end;
+  margin: 1em;
+}
+
+.enterRaffleButton {
+  display: flex;
+  justify-content: center;
+  margin:1.5em;
+}
+
+.kviMVi {
+  /* display: flex; */
+    margin: 0px;
+    appearance: none;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid rgb(55, 91, 210);
+    font-size: 14px;
+    line-height: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    color: rgb(55, 91, 210);
+    padding: 8px 24px;
+    border-radius: 4px;
+    box-shadow: rgb(12 22 44 / 32%) 0px 12px 32px -12px;
+    /* width: 10em; */
+    
+}
+
+legend{
+
+  font-size: 3em;
+    color: darkblue
+}
+
+label{
+  color: darkblue;
+    font-weight: 700;
+}
+select:hover{
+
+border-color: rgb(55, 91, 210);;
+    background-color: rgb(245, 247, 253);
+    color: rgb(26, 43, 107);
+}
+/* 
+border-color: rgb(26, 43, 107);
+    background-color: rgb(245, 247, 253);
+    color: rgb(55, 91, 210);;
+} */
+
+select{
+  
+  margin-left: 5em;
+  margin-top: 1em;
+  color: rgb(55, 91, 210);
+  border-radius: 0.3em;
+  height: 3em;
+  font-size: 1em;
+  /* border-color: navy; 
+  /* border-width: 0.2em;
+      background: rgb(245, 247, 253)
+      font-weight: bold;
+      margin-left: 5em;
+      margin-top: 1em;*/
+  border: 2px solid rgb(26, 43, 107)
+}
+
+input.totalSupply{
+  border-radius: 4px;
+  line-height: 1.7em;
+  border: 0.2em solid rgb(219 64 64);
+  margin: 0 1em;
+
+}
+
+input.totalSupply:focus-visible {
+  outline-offset: 0px;
+  outline: rgb(72 10 10);
+  border-color: rgb(157 20 20);
+}
+
+@media screen and (min-width: 768px){
+.walletStatusContainer p {
+    font-size: 14px;
+    color: darkblue; /* #0c162c; */
+}}
+
+@media screen and (min-width: 768px){
+#wallet-network-info {
+  font-size:1.5em;
+  color: #0c162c;
+    display: flex;
+    margin: 0 16px 0 0;
+    align-items: center;
+}}
+
+img.network-logo-sm{
+  margin-right:8px;
+  width:1.1em
+}
+
+/*  https://smartcontract.imgix.net/icons/ethereum.svg?auto=compress%2Cformat*/
+
+/*  https://smartcontract.imgix.net/icons/polygon.svg?auto=compress%2Cformat */

@@ -1,0 +1,25 @@
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+
+
+# private files and notes
+/resources
+private-notes.txt
+*example*
+*.psd
+*.txt
+*.zip
+*.svg
+/trash
+/stream*
+*key*
+/assets
+api.php
+/src/vendor
+
