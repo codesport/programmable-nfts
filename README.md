@@ -17,7 +17,7 @@ We are a DAO and Guild for blockchain builders, innovators, users.
 
 Our secondary goal is to become a grass roots incubator for dApps and blockchain-based services.
 
-
+ 
 ## Meeting the Needs of the Stakeholder: Chain Block Labs/Builders' DAO/CoderFi:
 
 We meet the needs of every member of the blockchain ecosystem. This includes end users, investors, and blockchain developers.  
