@@ -1,4 +1,6 @@
 
+**Attribution:** This dApp was created by Marcos (Marcus) A. B. His GitHub username is [codesport](https://github.com/codesport)
+
 # Executive Summary: Chainblock DAO (Eight Test NFT DAO)
 
 This DAO uses NFTs as primitives to provide cashflow entitlements, blockchain-based credentialing, proof of provenance, proof of work (completed labor), and proof of attendance (of events) for individuals in real life scenarios.
