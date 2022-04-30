@@ -1,5 +1,5 @@
 
-**Attribution:** This dApp and business plan was created by **Marcus (Marcos) A. B**. His GitHub username is [codesport](https://github.com/codesport). If you would like to contribute to this projects submit  pull request. Questions? Email Code Sport Labs at: ![email](https://codesport.io/assets/csi/images/posts/codesport-cares@2x.png)
+**Attribution:** This dApp and business plan was created by **Marcos A. B.** with Code Sport Labs. His GitHub username is [codesport](https://github.com/codesport). If you would like to contribute to this project, juts submit  pull request. If you would like to join our team, email Code Sport Labs at: ![email](https://codesport.io/assets/csi/images/posts/codesport-cares@2x.png)
 
 
 # Executive Summary: Chainblock DAO (Eight Test NFT DAO)
