@@ -1,7 +1,7 @@
 
 **Attribution:** This dApp and business plan was created by **[Marcos](https://github.com/codesport)** in partnership with Code Sport Labs. His GitHub username is [codesport](https://github.com/codesport). 
 
-If you would like to contribute to this project, just submit a pull request. If you would like to join our team, email your CV to Code Sport Labs at: CodeSportCares@codesport.io
+If you would like to contribute to this project, just submit a pull request. If you would like to join our team, email your CV and a brief statement on how yu would like to contribute to: CodeSportCares@codesport.io
 
 
 # Executive Summary: Eight Test DAO
