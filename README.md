@@ -1,10 +1,12 @@
 
-**Attribution:** This dApp and business plan was created by **[Marcos](https://github.com/codesport)** with Code Sport Labs. His GitHub username is [codesport](https://github.com/codesport). 
+**Attribution:** This dApp and business plan was created by **[Marcos](https://github.com/codesport)** in partnership with Code Sport Labs. His GitHub username is [codesport](https://github.com/codesport). 
 
-If you would like to contribute to this project, just submit a pull request. If you would like to join our team, email Code Sport Labs at: CodeSportCares@codesport.io
+If you would like to contribute to this project, just submit a pull request. If you would like to join our team, email your CV to Code Sport Labs at: CodeSportCares@codesport.io
 
 
-# Executive Summary: Chainblock DAO
+# Executive Summary: Eight Test DAO
+
+**NB:** *Eight Test DAO* is a placeholder name
 
 This DAO uses NFTs as primitives to provide cashflow entitlements, blockchain-based credentialing, proof of provenance, proof of work (completed labor), and proof of attendance (of events) for individuals in real life scenarios.
 
