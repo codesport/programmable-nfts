@@ -3,7 +3,7 @@
 
 * If you would like to contribute to this project, just submit a pull request. 
 
-* If you would like to join our team, email your CV and a brief statement on how yu would like to contribute to: CodeSportCares@codesport.io
+* If you would like to join our team in official, email your CV and a brief statement on how you would like to contribute to: CodeSportCares@codesport.io
 
 
 # Executive Summary: Eight Test DAO
