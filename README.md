@@ -179,8 +179,6 @@ Contract deployed TO: 0xdd4447373BB1B868004348fF15FbbEBdE90b5461
 >
 >These NFTs may not be resold and are permanently tied to a members ETH Address.
 
-Here are the rest of my personal from February 2022: [Please Don't Read This. You will Barf](deprecated-road-map.md)
-
 ### Technical Resources on Payment Splitters:
 
 * https://docs.openzeppelin.com/contracts/2.x/api/payment
